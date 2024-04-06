@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k2mUn3TWMAZ+iuUDF3zFz9C9CkRrDDu0M1Xf1JavLHKrjh0nZwYb9I9l+f2zrAF+RolAaIFsiTKWxPZ/z9cqkg==",
+  "dgSpecHash": "6aiGId+0l6fpvDDBii9OmHIx313oTZAXjtPgUTHxhr/K8SWJu7hJrvygC+5s8NE5ZqYTtS4qXy7O0ZWte92BMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\s24911\\Desktop\\APBD_Refactoring\\zadanie\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+  "projectFilePath": "C:\\Users\\jacke\\OneDrive\\Рабочий стол\\APBD_Refactoring\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

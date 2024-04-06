@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LegacyAppTest.Tests
-build_property.ProjectDir = C:\Users\s24911\Desktop\APBD_Refactoring\zadanie\LegacyAppTest.Tests\
+build_property.ProjectDir = C:\Users\jacke\OneDrive\Рабочий стол\APBD_Refactoring\LegacyAppTest.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

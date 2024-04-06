@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s24911\\Desktop\\APBD_Refactoring\\zadanie\\LegacyAppConsumer\\LegacyAppConsumer.csproj": {}
+    "C:\\Users\\jacke\\OneDrive\\Рабочий стол\\APBD_Refactoring\\LegacyAppConsumer\\LegacyAppConsumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s24911\\Desktop\\APBD_Refactoring\\zadanie\\LegacyAppConsumer\\LegacyAppConsumer.csproj": {
+    "C:\\Users\\jacke\\OneDrive\\Рабочий стол\\APBD_Refactoring\\LegacyAppConsumer\\LegacyAppConsumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s24911\\Desktop\\APBD_Refactoring\\zadanie\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+        "projectUniqueName": "C:\\Users\\jacke\\OneDrive\\Рабочий стол\\APBD_Refactoring\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
         "projectName": "LegacyAppConsumer",
-        "projectPath": "C:\\Users\\s24911\\Desktop\\APBD_Refactoring\\zadanie\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
-        "packagesPath": "C:\\Users\\s24911\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s24911\\Desktop\\APBD_Refactoring\\zadanie\\LegacyAppConsumer\\obj\\",
+        "projectPath": "C:\\Users\\jacke\\OneDrive\\Рабочий стол\\APBD_Refactoring\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+        "packagesPath": "C:\\Users\\jacke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jacke\\OneDrive\\Рабочий стол\\APBD_Refactoring\\LegacyAppConsumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s24911\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jacke\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\s24911\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp\\LegacyApp.csproj": {
-                "projectPath": "C:\\Users\\s24911\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp\\LegacyApp.csproj"
+              "C:\\Users\\jacke\\OneDrive\\Рабочий стол\\APBD_Refactoring\\LegacyApp\\LegacyApp.csproj": {
+                "projectPath": "C:\\Users\\jacke\\OneDrive\\Рабочий стол\\APBD_Refactoring\\LegacyApp\\LegacyApp.csproj"
               }
             }
           }
@@ -38,11 +36,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -68,24 +61,22 @@
         }
       }
     },
-    "C:\\Users\\s24911\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp\\LegacyApp.csproj": {
+    "C:\\Users\\jacke\\OneDrive\\Рабочий стол\\APBD_Refactoring\\LegacyApp\\LegacyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s24911\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp\\LegacyApp.csproj",
+        "projectUniqueName": "C:\\Users\\jacke\\OneDrive\\Рабочий стол\\APBD_Refactoring\\LegacyApp\\LegacyApp.csproj",
         "projectName": "LegacyApp",
-        "projectPath": "C:\\Users\\s24911\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp\\LegacyApp.csproj",
-        "packagesPath": "C:\\Users\\s24911\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s24911\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp\\obj\\",
+        "projectPath": "C:\\Users\\jacke\\OneDrive\\Рабочий стол\\APBD_Refactoring\\LegacyApp\\LegacyApp.csproj",
+        "packagesPath": "C:\\Users\\jacke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jacke\\OneDrive\\Рабочий стол\\APBD_Refactoring\\LegacyApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s24911\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jacke\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -98,11 +89,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
